@@ -6,7 +6,7 @@ About The Project:
   
 Note to The Viewers:
 
-  Employers: Welcome! Thank you for taking the time to check my Github page
+  Employers/Recruiters: Welcome! Thank you for taking the time to check my Github page
   
   Students who might seek to copy my code: Please before you copy and paste my code, think about how valuable the experience of creating a larger programming project is for your development as a professional. Opportunities like this project are what really aid in your growth as a programmer. Best of luck to you!
   
